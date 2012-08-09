@@ -27,12 +27,15 @@ Explanations for the action letters follow:
 
 a)dd - Input the data (Last name,first name,email address,phone number) - no spaces.
 
-d)isplay - User will input a name or names. The script will search the phone book and display records matching the last names of the request. If no record is found for the requested search an error message is to be printed. 
+d)isplay - User will input a name or names. The script will search the phone book and display records matching the 
+last names of the request. If no record is found for the requested search an error message is to be printed. 
 
 e)dit - Rewrite the record with the new data or replace the entire record with the newly formatted field data.
 
 r)emove - Script will remove the record from the address book.
 
-s)earch - The script will search for all records matching the search string input (as "grep" does). The difference between "display" and "search" is that "display" keys on names only. "Search" behaves in the same manner as grep in that the search string is not limited to names. 
+s)earch - The script will search for all records matching the search string input (as "grep" does). The difference 
+between "display" and "search" is that "display" keys on names only. "Search" behaves in the same manner as grep in 
+that the search string is not limited to names. 
 
 Script to be written using "case" statements.
