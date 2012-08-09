@@ -20,8 +20,8 @@ At the end, use a "here" document that includes comments before quitting the app
 
 Each record should be of the following construct: "Last name,first name,email address,phone number".
 
-Prepare a small database using Excel, Scalc, gnumeric, etc. and save it as a .csv record to test 
-formation of a database. 
+Prepare a small database using Excel, Scalc, gnumeric, etc. and save it as a .csv record to test formation of a 
+database. 
 
 Explanations for the action letters follow:
 
